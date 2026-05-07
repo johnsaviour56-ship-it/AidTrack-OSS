@@ -1,0 +1,47 @@
+# GitHub Labels for AidTrack OSS
+#
+# To apply these labels to your repository, you can use the GitHub CLI:
+#   gh label create "good first issue" --color 7057ff --description "Good for newcomers"
+#
+# Or apply them manually in: Settings → Labels
+
+labels:
+  - name: "good first issue"
+    color: "7057ff"
+    description: "Good for newcomers"
+
+  - name: "help wanted"
+    color: "008672"
+    description: "Extra attention is needed"
+
+  - name: "bug"
+    color: "d73a4a"
+    description: "Something isn't working"
+
+  - name: "enhancement"
+    color: "a2eeef"
+    description: "New feature or improvement"
+
+  - name: "documentation"
+    color: "0075ca"
+    description: "Improvements or additions to documentation"
+
+  - name: "frontend"
+    color: "e4e669"
+    description: "Related to UI or client-side code"
+
+  - name: "backend"
+    color: "f9d0c4"
+    description: "Related to server-side code, API, or database"
+
+  - name: "accessibility"
+    color: "bfd4f2"
+    description: "Accessibility improvements"
+
+  - name: "duplicate"
+    color: "cfd3d7"
+    description: "This issue or PR already exists"
+
+  - name: "wontfix"
+    color: "ffffff"
+    description: "This will not be worked on"
