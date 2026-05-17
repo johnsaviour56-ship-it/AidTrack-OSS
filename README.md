@@ -54,7 +54,7 @@ AidTrack OSS helps NGOs, community organizations, and relief programs manage ben
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/AidTrack-OSS.git
+git clone https://github.com/johnsaviour56-ship-it/AidTrack-OSS.git
 cd AidTrack-OSS
 ```
 
